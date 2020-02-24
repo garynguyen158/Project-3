@@ -1,0 +1,61 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-02-24T02:26:27.037Z,53.4339,-165.3329,35,3.8,mb,,208,0.749,0.7,us,us70007vix,2020-02-24T03:04:40.040Z,"83km SSE of Akutan, Alaska",earthquake,2.7,2,0.106,23,reviewed,us,us
+2020-02-23T21:22:22.104Z,54.0134,-163.6213,35,2.6,ml,,229,0.815,1.05,us,us70007vgm,2020-02-24T00:44:23.040Z,"94km S of False Pass, Alaska",earthquake,3,2,0.148,6,reviewed,us,us
+2020-02-23T16:15:43.716Z,60.9431,-151.242,60.6,3.5,ml,,,,0.67,ak,ak0202hkmzdo,2020-02-24T18:31:11.243Z,"28km N of Nikiski, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2020-02-23T10:28:58.595Z,60.3123,-151.3548,47.7,2.5,ml,,,,0.44,ak,ak0202hh579o,2020-02-23T10:48:23.040Z,"5km SW of Cohoe, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2020-02-23T09:12:43.900Z,39.5789986,-120.7139969,-1.85,2.5,md,15,65,0.2773,0.15,nc,nc73344965,2020-02-23T10:47:03.937Z,"21km SW of Whitehawk, CA",earthquake,0.48,2.4,0.18,13,automatic,nc,nc
+2020-02-23T02:32:50.743Z,61.7916,-135.3713,11.8,3.4,ml,,,,0.81,ak,ak0202hceko5,2020-02-23T23:21:00.394Z,"117km WSW of Faro, Canada",earthquake,,0.3,,,reviewed,ak,ak
+2020-02-22T20:29:33.127Z,19.4189,-155.5864,1.6,2.5,ml,,57,0.037,0.41,us,us70007v0c,2020-02-23T02:10:56.040Z,"26km NNW of Pahala, Hawaii",earthquake,0.8,20.1,0.057,40,reviewed,us,us
+2020-02-22T19:14:27.580Z,40.2895,-124.6736667,7.07,4.33,mw,27,286,0.2533,0.16,nc,nc73344735,2020-02-24T18:15:04.690Z,"33km W of Petrolia, CA",earthquake,1.48,0.86,,4,reviewed,nc,nc
+2020-02-22T09:20:53.280Z,32.3318333,-115.357,15.79,2.6,ml,27,113,0.09786,0.29,ci,ci39080519,2020-02-22T09:31:57.990Z,"16km W of Delta, B.C., MX",earthquake,0.78,1.28,0.225,25,automatic,ci,ci
+2020-02-22T07:24:51.636Z,53.3467,-167.1865,69.06,2.5,ml,,204,0.439,0.21,us,us70007uy2,2020-02-23T08:32:38.040Z,"72km SW of Unalaska, Alaska",earthquake,13.9,25.5,0.128,8,reviewed,us,us
+2020-02-22T07:22:49.730Z,35.7756667,-117.622,9.12,2.64,ml,30,58,0.04467,0.15,ci,ci39080439,2020-02-22T07:33:25.720Z,"18km NNE of Ridgecrest, CA",earthquake,0.21,0.56,0.169,25,automatic,ci,ci
+2020-02-22T06:09:44.900Z,40.3288345,-124.3304977,6.58,2.88,md,6,282,0.03598,0.08,nc,nc73344490,2020-02-22T08:24:03.133Z,"4km W of Petrolia, CA",earthquake,3.1,1.1,0.04,4,automatic,nc,nc
+2020-02-22T04:51:53.489Z,43.132,-126.3821,10,3,ml,,249,1.548,0.63,us,us70007un6,2020-02-22T18:01:48.369Z,"159km WNW of Port Orford, Oregon",earthquake,9.2,2,0.039,86,reviewed,us,us
+2020-02-22T02:33:21.730Z,38.762001,-122.7403336,2.04,2.84,md,55,72,0.02169,0.06,nc,nc73344415,2020-02-23T04:17:19.950Z,"2km SE of The Geysers, CA",earthquake,0.15,0.36,0.13,45,automatic,nc,nc
+2020-02-22T02:00:01.190Z,31.8928333,-115.583,5.5,2.51,ml,20,137,0.3298,0.42,ci,ci39080239,2020-02-22T05:13:59.040Z,"54km SW of Alberto Oviedo Mota, B.C., MX",earthquake,0.68,31.61,0.163,29,reviewed,ci,ci
+2020-02-21T20:46:00.799Z,62.9017,-148.0894,53.3,2.5,ml,,,,0.74,ak,ak0202ec4kqe,2020-02-21T22:08:06.040Z,"68km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-02-21T18:39:39.590Z,35.6705,-117.5298333,8.72,3.09,ml,46,60,0.1003,0.13,ci,ci39079791,2020-02-21T23:27:42.110Z,"14km ENE of Ridgecrest, CA",earthquake,0.12,0.35,0.155,242,reviewed,ci,ci
+2020-02-21T16:10:53.136Z,61.4394,-150.1226,11.6,2.5,ml,,,,0.86,ak,ak0202e9j8p7,2020-02-21T16:15:36.309Z,"12km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-02-21T13:42:53.410Z,34.5075,-118.6345,18.06,3.52,mw,130,19,0.01866,0.23,ci,ci39079535,2020-02-24T18:41:26.879Z,"2km NNW of Castaic, CA",earthquake,0.14,0.33,,6,reviewed,ci,ci
+2020-02-21T08:10:28.790Z,18.8684998,-155.1790009,8.72,3.25,ml,55,260,0.3914,0.21,hv,hv71392772,2020-02-21T22:22:32.229Z,"47km SE of Pahala, Hawaii",earthquake,0.79,0.72,2.89,36,automatic,hv,hv
+2020-02-21T01:16:11.070Z,18.8458328,-155.2338409,10.23,2.52,md,27,268,0.3761,0.13,hv,hv71392297,2020-02-21T02:13:29.040Z,"49km SE of Pahala, Hawaii",earthquake,1.23,0.82,0.13,10,automatic,hv,hv
+2020-02-20T20:28:24.288Z,47.1873,-113.1134,17.67,2.5,ml,,110,0.146,0.41,us,us70007tuc,2020-02-21T04:30:49.605Z,"28km E of Seeley Lake, Montana",earthquake,1.6,5.4,0.077,22,reviewed,us,us
+2020-02-20T14:53:44.520Z,19.2176666,-155.3926697,32.13,2.92,ml,59,153,0.02025,0.13,hv,hv71391722,2020-02-20T15:05:23.040Z,"9km E of Pahala, Hawaii",earthquake,0.48,0.65,3.46,39,automatic,hv,hv
+2020-02-20T12:54:28.800Z,19.2106667,-155.389328,33.1,2.71,ml,61,156,0.02779,0.13,hv,hv71391632,2020-02-20T13:00:04.020Z,"9km E of Pahala, Hawaii",earthquake,0.48,0.62,3.37,36,automatic,hv,hv
+2020-02-20T08:53:20.270Z,35.627,-117.4735,8.88,3.18,ml,46,65,0.04145,0.14,ci,ci39077911,2020-02-21T21:24:30.846Z,"17km SSW of Searles Valley, CA",earthquake,0.13,0.35,0.159,281,reviewed,ci,ci
+2020-02-20T07:12:30.950Z,35.93,-117.7061667,2.69,2.76,ml,31,53,0.04867,0.14,ci,ci39077847,2020-02-20T15:15:14.877Z,"18km E of Little Lake, CA",earthquake,0.16,0.38,0.121,25,automatic,ci,ci
+2020-02-20T06:04:00.670Z,40.4585,-125.6308333,12.26,3.32,ml,47,260,0.9869,0.27,nc,nc73343650,2020-02-21T01:50:02.754Z,"115km W of Petrolia, CA",earthquake,2.67,4.38,0.255,35,reviewed,nc,nc
+2020-02-20T02:19:09.550Z,36.6194992,-121.1740036,6.97,2.71,md,41,116,,0.14,nc,nc73343545,2020-02-20T22:17:20.600Z,"10km NNW of Pinnacles, CA",earthquake,0.29,0.82,0.16,42,automatic,nc,nc
+2020-02-20T01:04:00.399Z,59.2329,-147.6345,13.1,3,ml,,,,0.65,ak,ak0202cd0zsu,2020-02-20T01:15:21.560Z,"77km WSW of Middleton Island, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-02-19T21:38:06.692Z,43.715,-127.9085,10,4.5,mb,,192,1.97,0.97,us,us70007t8b,2020-02-20T17:39:34.262Z,"291km WNW of Bandon, Oregon",earthquake,8.1,1.9,0.057,91,reviewed,us,us
+2020-02-19T19:22:06.299Z,60.2587,-151.7669,65.6,2.8,ml,,,,0.58,ak,ak0202b0bbfy,2020-02-19T21:28:34.040Z,"27km WSW of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-02-19T19:21:33.761Z,61.1143,-148.4749,1.3,2.6,ml,,,,0.85,ak,ak0202b0b64y,2020-02-20T00:25:37.661Z,"39km NNE of Whittier, Alaska",ice quake,,0.3,,,automatic,ak,ak
+2020-02-19T16:41:17.016Z,53.6702,-165.7602,68.39,3.8,mb,,194,0.44,0.43,us,us70007t5b,2020-02-20T00:43:56.321Z,"51km S of Akutan, Alaska",earthquake,8,13.4,0.18,8,reviewed,us,us
+2020-02-19T15:30:01.876Z,60.801,-151.1072,60.8,2.5,ml,,,,0.48,ak,ak0202axzacp,2020-02-19T22:08:29.040Z,"16km NNE of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-02-19T11:36:38.769Z,63.7088,-149.3343,103.7,2.5,ml,,,,0.57,ak,ak0202avmx02,2020-02-19T11:48:23.040Z,"27km SW of Healy, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-02-19T08:08:45.090Z,39.2271667,-120.1046667,6.41,2.68,md,20,69,0.02555,0.09,nc,nc73343145,2020-02-20T08:47:27.201Z,"4km N of Dollar Point, CA",earthquake,0.22,0.45,0.151,33,reviewed,nc,nc
+2020-02-19T04:09:35.210Z,19.1785,-155.4858333,27.88,3.09,ml,65,79,0.02479,0.1,hv,hv71389617,2020-02-20T01:34:00.660Z,"3km SSW of Pahala, Hawaii",earthquake,0.35,0.55,0.144,45,reviewed,hv,hv
+2020-02-19T02:52:17.290Z,19.2248333,-155.4055,33.05,2.89,ml,59,142,0.0147,0.12,hv,hv71389452,2020-02-19T03:46:30.516Z,"8km ENE of Pahala, Hawaii",earthquake,0.45,0.61,0.167,41,reviewed,hv,hv
+2020-02-19T01:41:50.100Z,36.2111667,-118.1288333,2.44,2.53,ml,31,85,0.2316,0.13,ci,ci39076271,2020-02-21T17:52:53.870Z,"14km SW of Olancha, CA",earthquake,0.17,0.81,0.116,53,reviewed,ci,ci
+2020-02-19T00:29:50.760Z,36.8081667,-118.1373333,3.85,3.33,ml,41,36,0.2566,0.2,ci,ci39076207,2020-02-20T15:16:38.202Z,"6km E of Independence, CA",earthquake,0.25,1.43,0.182,205,reviewed,ci,ci
+2020-02-18T23:30:02.590Z,56.1213,-149.4249,10,3.3,ml,,259,2.4,0.82,us,us70007stc,2020-02-19T07:32:47.315Z,"259km SE of Kodiak, Alaska",earthquake,9.5,2,0.055,44,reviewed,us,us
+2020-02-18T21:25:03.300Z,31.8581667,-115.0521667,5.95,2.7,ml,22,100,0.2799,0.33,ci,ci39075999,2020-02-18T23:55:54.040Z,"38km S of Estacion Coahuila, B.C., MX",earthquake,0.36,31.61,0.264,58,reviewed,ci,ci
+2020-02-18T19:04:19.820Z,36.2083333,-118.128,2.27,3.15,ml,54,67,0.2343,0.17,ci,ci39075799,2020-02-19T15:44:40.040Z,"14km SW of Olancha, CA",earthquake,0.15,0.58,0.151,213,reviewed,ci,ci
+2020-02-18T18:20:56.820Z,38.7866667,-122.7436667,1.51,2.72,md,83,34,0.006416,0.06,nc,nc73342805,2020-02-24T18:35:17.817Z,"2km NE of The Geysers, CA",earthquake,0.1,0.14,0.246,71,reviewed,nc,nc
+2020-02-18T13:20:19.720Z,19.2235,-155.4098333,33.01,2.65,ml,66,141,0.01816,0.12,hv,hv71388422,2020-02-18T21:57:50.710Z,"7km NE of Pahala, Hawaii",earthquake,0.44,0.54,0.122,40,reviewed,hv,hv
+2020-02-18T10:07:21.721Z,62.8681,-151.3039,107.9,2.5,ml,,,,0.36,ak,ak020297bw01,2020-02-22T07:06:52.040Z,"86km NW of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-02-18T08:26:13.713Z,58.6282,-151.282,13.9,3.2,ml,,,,0.57,ak,ak02029692im,2020-02-18T08:38:25.043Z,"114km NE of Kodiak, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2020-02-18T07:29:17.728Z,58.4085,-151.294,1.6,3,ml,,,,0.43,ak,ak020295oajg,2020-02-18T07:36:29.089Z,"95km NE of Kodiak, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-02-18T07:24:27.750Z,39.9101667,-120.5558333,9.4,2.76,md,27,102,0.1571,0.12,nc,nc73342655,2020-02-20T04:47:03.210Z,"8km WNW of Lake Davis, CA",earthquake,0.26,0.65,0.115,35,reviewed,nc,nc
+2020-02-18T07:23:44.229Z,56.8199,-154.9772,39.8,2.7,ml,,,,0.66,ak,ak020295n2ba,2020-02-18T07:26:25.368Z,"100km SW of Larsen Bay, Alaska",earthquake,,3.6,,,automatic,ak,ak
+2020-02-18T06:04:10.538Z,61.4856,-150.053,33.8,2.5,ml,,,,0.55,ak,ak020294xhhn,2020-02-24T15:11:27.040Z,"1km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-02-17T23:58:07.562Z,61.6876,-150.3452,42.2,3.1,ml,,,,0.61,ak,ak02027ru2nw,2020-02-19T13:52:34.083Z,"16km WSW of Willow, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2020-02-17T20:14:15.260Z,39.2115,-123.1025,3.51,2.79,md,57,81,0.1188,0.1,nc,nc73342485,2020-02-20T02:53:05.189Z,"10km NNE of Talmage, CA",earthquake,0.14,1.43,0.347,40,reviewed,nc,nc
+2020-02-17T19:27:53.800Z,61.7332,-152.1102,111.4,2.9,ml,,,,0.53,ak,ak02027p9snw,2020-02-19T00:26:10.040Z,"109km W of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-02-17T18:26:40.227Z,59.4671,-154.2903,192.7,2.6,ml,,,,0.68,ak,ak02027oo4e4,2020-02-17T18:34:27.415Z,"47km SE of Old Iliamna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2020-02-17T14:39:44.307Z,62.719,-149.8528,50.4,2.5,ml,,,,0.87,ak,ak02027md6g6,2020-02-24T17:30:57.040Z,"43km NNE of Talkeetna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2020-02-17T12:12:26.360Z,21.3105,-156.8608333,0.14,2.82,ml,9,203,0.5712,0.09,hv,hv71386947,2020-02-24T07:23:13.040Z,"51km N of Waialua, Hawaii",earthquake,2.46,0.29,0.073,4,reviewed,hv,hv
+2020-02-17T09:18:06.340Z,57.4893,-156.0305,98.9,4.7,ml,,,,0.51,ak,ak02027j9fgu,2020-02-18T07:08:28.951Z,"122km W of Larsen Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2020-02-17T08:34:56.651Z,52.2569,-170.0836,35,4.1,mb,,141,0.579,0.94,us,us70007rr0,2020-02-17T20:56:14.902Z,"58km SE of Yunaska Island, Alaska",earthquake,5.8,2,0.052,99,reviewed,us,us
+2020-02-17T06:32:06.550Z,32.0603333,-116.359,16.36,3,ml,59,91,0.3228,0.26,ci,ci39074143,2020-02-21T21:57:46.147Z,"32km NE of Ensenada, B.C., MX",earthquake,0.26,0.85,0.15,165,reviewed,ci,ci
