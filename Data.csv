@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-02-26T18:44:16.490Z,39.652668,-120.0356674,1.49,2.85,md,13,120,0.07303,0.1,nc,nc73346460,2020-02-26T20:09:06.068Z,"6km WSW of Cold Springs, NV",earthquake,0.51,1.32,0.19,14,automatic,nc,nc
+2020-02-26T18:34:12.850Z,38.8364983,-122.784668,-0.83,3.68,mw,70,45,0.004826,0.21,nc,nc73346395,2020-02-26T21:22:38.332Z,"6km WNW of Cobb, CA",earthquake,0.19,0.36,,3,reviewed,nc,nc
+2020-02-26T18:31:33.540Z,38.8318329,-122.7914963,1.57,2.84,md,56,33,0.006628,0.06,nc,nc73346365,2020-02-26T21:15:04.502Z,"6km W of Cobb, CA",earthquake,0.14,0.21,0.19,42,automatic,nc,nc
+2020-02-26T09:21:15.300Z,40.3006668,-124.5439987,17.83,2.76,md,17,271,0.1545,0.11,nc,nc73346175,2020-02-26T21:53:24.772Z,"22km W of Petrolia, CA",earthquake,2.04,0.44,0.13,14,automatic,nc,nc
+2020-02-23T22:01:56.480Z,49.339,-120.503833333333,-0.51,2.5,ml,7,231,,0.18,uw,uw61576937,2020-02-24T22:12:57.700Z,"13km S of Princeton, Canada",explosion,2.03,31.61,0.185320134357388,5,reviewed,uw,uw
+2020-02-22T19:14:27.580Z,40.2895,-124.6736667,7.07,4.33,mw,27,286,0.2533,0.16,nc,nc73344735,2020-02-24T21:07:27.622Z,"33km W of Petrolia, CA",earthquake,1.48,0.86,,4,reviewed,nc,nc
+2020-02-22T06:09:39.970Z,40.3003333,-124.6733333,7.23,2.55,md,40,258,0.2533,0.24,nc,nc73344490,2020-02-25T01:42:03.257Z,"33km W of Petrolia, CA",earthquake,0.79,0.69,0.216,27,reviewed,nc,nc
+2020-02-22T04:51:53.489Z,43.132,-126.3821,10,3,ml,,249,1.548,0.63,us,us70007un6,2020-02-22T18:01:48.369Z,"159km WNW of Port Orford, Oregon",earthquake,9.2,2,0.039,86,reviewed,us,us
+2020-02-22T02:33:21.730Z,38.7631667,-122.7388333,2.88,2.81,md,74,56,0.01104,0.07,nc,nc73344415,2020-02-25T03:03:04.761Z,"2km SE of The Geysers, CA",earthquake,0.12,0.2,0.156,60,reviewed,nc,nc
+2020-02-20T06:04:00.670Z,40.4585,-125.6308333,12.26,3.32,ml,47,260,0.9869,0.27,nc,nc73343650,2020-02-21T01:50:02.754Z,"115km W of Petrolia, CA",earthquake,2.67,4.38,0.255,35,reviewed,nc,nc
+2020-02-19T21:38:06.692Z,43.715,-127.9085,10,4.5,mb,,192,1.97,0.97,us,us70007t8b,2020-02-26T09:34:26.918Z,"291km WNW of Bandon, Oregon",earthquake,8.1,1.9,0.057,91,reviewed,us,us
+2020-02-19T08:08:45.090Z,39.2271667,-120.1046667,6.41,2.68,md,20,69,0.02555,0.09,nc,nc73343145,2020-02-24T20:00:12.676Z,"4km N of Dollar Point, CA",earthquake,0.22,0.45,0.151,33,reviewed,nc,nc
