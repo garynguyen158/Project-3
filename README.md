@@ -1,5 +1,6 @@
 # Gary nguyen
 # Plate Tectonics
+The purpose of this project is investigate earthquakes occured around the Juan de Fuca plate. Using date collected from USGS, all number and magnitude of earthquakes need to be plotted in a geometry map base on thier coordinate. From the plots, location and patterns of earthquakes can be analized and comparing with real tectonic boundary map to check the accurate. Moreover, there are events that happened in the past related to the data. 
 ## A) Link To the Code file: 
 [Google Colab](https://colab.research.google.com/drive/1884EbN0lFHjyt37HAHmTPNkfJH-I10Tf)
 
@@ -24,7 +25,7 @@ Figure 3: Location and Magnitude (Radius of Circle) of All Earthquake During Apr
 Figure 4: Comparing and Showing All Plate Boundary
 ![](/Image/Compare.jpg)
 
-On this section, I should have some images of divergent and transform boundaries, but there is multiple regions of each boundary. Therefore I think it is better to keep a big map with all boundaries is identified, and I also add a picture from a research website, that shows all boundaries in that region. The resulft shows matching with the one from reseach website.
+On this section, I should have some images of divergent and transform boundaries, but there is multiple regions of each boundary. Therefore I think it is better to keep a big map with all boundaries is identified, and I also add a picture from a outside sourse [[1]](https://www.wildcoastcompass.com/6-3-magnitude-quake-strikes-off-coos-bay/) , that shows all boundaries in that region. The resulft shows matching with the one from reseach website.
 ## D) Conclusion
 ### Answer Question:
 a. Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?
@@ -39,17 +40,19 @@ b. What is the range of earthquake size (magnitude) in these data? What is the a
 
 c. Map the earthquakes in April 2015(include this map in your report). Where are those earthquakes mostly located? What event can you link these earthquakes to? 
 
-> During this month, earthquakes occured at boundaries of tectonics. However, there is one spot that occurs significant amount of earthquake. It is at the Axial Seamount volcano, and this volcano erupted in April 23, 2015, according to Smithsonian Intitution [[1]](https://volcano.si.edu/volcano.cfm?vn=331021). Moreover, there are more tragic events happen on that month. On April 22, 2015, Calbuco volcano in southern Chile erupted [[2]](https://earthobservatory.nasa.gov/images/85767/calbuco-volcano-erupts), and a 7.8 earthquake occuer in Nepal on April 25, 2015 [[3]](https://www.britannica.com/topic/Nepal-earthquake-of-2015). All of them happened during 2-3 days and related to movement of tictonics. As we leared how waves traveled under the Earth surface, those events could be a consequence of each others. 
+> During this month, earthquakes occured at boundaries of tectonics. However, there is one spot that occurs significant amount of earthquake. It is at the Axial Seamount volcano, and this volcano erupted in April 23, 2015, according to Smithsonian Intitution [[2]](https://volcano.si.edu/volcano.cfm?vn=331021). Moreover, there are more tragic events happen on that month. On April 22, 2015, Calbuco volcano in southern Chile erupted [[3]](https://earthobservatory.nasa.gov/images/85767/calbuco-volcano-erupts), and a 7.8 earthquake occuer in Nepal on April 25, 2015 [[4]](https://www.britannica.com/topic/Nepal-earthquake-of-2015). All of them happened during 2-3 days and related to movement of tictonics. As we leared how waves traveled under the Earth surface, those events could be a consequence of each others. 
 
-d. What kind of patterns in earthquake magnitude and location you observe over time along eachboundary?
+d. What kind of patterns in earthquake magnitude and location you observe over time along each boundary?
 
 > From the firgure 4, earthquake occured significantly at transform boundaries in both number and magnitude of the earthquakes. Almost all region belong to transform boundary are covered with blue circile (earthquakes' location), but it is little sparser with divergent boundary. In addtion, earthquakes are most concentrated at region that conect two different boundaries. That makes sense because at these area tectonic plates have complicated movement.
 
 ## References
-[1] Smithsonian Intitution: https://volcano.si.edu/volcano.cfm?vn=331021
+[1] The Wild Coast Compass: https://www.wildcoastcompass.com/6-3-magnitude-quake-strikes-off-coos-bay/
 
-[2] NASA: https://earthobservatory.nasa.gov/images/85767/calbuco-volcano-erupts
+[2] Smithsonian Intitution: https://volcano.si.edu/volcano.cfm?vn=331021
 
-[3] Britannica: https://www.britannica.com/topic/Nepal-earthquake-of-2015
+[3] NASA: https://earthobservatory.nasa.gov/images/85767/calbuco-volcano-erupts
 
-[4] USGS: https://earthquake.usgs.gov/earthquakes/map/ 
+[4] Britannica: https://www.britannica.com/topic/Nepal-earthquake-of-2015
+
+[5] USGS: https://earthquake.usgs.gov/earthquakes/map/ 
