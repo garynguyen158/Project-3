@@ -47,6 +47,9 @@ d. What kind of patterns in earthquake magnitude and location you observe over t
 
 ## References
 [1] Smithsonian Intitution: https://volcano.si.edu/volcano.cfm?vn=331021
+
 [2] NASA: https://earthobservatory.nasa.gov/images/85767/calbuco-volcano-erupts
+
 [3] Britannica: https://www.britannica.com/topic/Nepal-earthquake-of-2015
+
 [4] USGS: https://earthquake.usgs.gov/earthquakes/map/ 
