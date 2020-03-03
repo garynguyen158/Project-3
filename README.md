@@ -44,9 +44,9 @@ c. Map the earthquakes in April 2015(include this map in your report). Where are
 d. What kind of patterns in earthquake magnitude and location you observe over time along eachboundary?
 
 > From the firgure 4, earthquake occured significantly at transform boundaries in both number and magnitude of the earthquakes. Almost all region belong to transform boundary are covered with blue circile (earthquakes' location), but it is little sparser with divergent boundary. In addtion, earthquakes are most concentrated at region that conect two different boundaries. That makes sense because at these area tectonic plates have complicated movement.
-#### 
 
-
-https://volcano.si.edu/volcano.cfm?vn=331021
-https://earthobservatory.nasa.gov/images/85767/calbuco-volcano-erupts
-https://www.britannica.com/topic/Nepal-earthquake-of-2015
+## References
+[1] Smithsonian Intitution: https://volcano.si.edu/volcano.cfm?vn=331021
+[2] NASA: https://earthobservatory.nasa.gov/images/85767/calbuco-volcano-erupts
+[3] Britannica: https://www.britannica.com/topic/Nepal-earthquake-of-2015
+[4] USGS: https://earthquake.usgs.gov/earthquakes/map/ 
